@@ -17,6 +17,8 @@ Features:
      Easy to modify
 
 
+Version: 4.25.4
+
 Number of Blueprints: 12
 
 Input: Keyboard and Gamepad
